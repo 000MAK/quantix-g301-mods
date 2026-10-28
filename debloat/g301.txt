@@ -1,0 +1,23 @@
+# G301 debloat, 2026-10-28. Kaynak: Universal Android Debloater NG listesi (Recommended) + GM/Pri marka uygulamaları.
+# Geri almak: tools\adb.cmd -s <SERIAL> shell cmd package install-existing <paket>
+com.android.egg
+com.android.providers.partnerbookmarks
+com.android.traceur
+com.debug.loggerui
+com.google.android.apps.tachyon
+com.google.android.feedback
+com.google.android.videos
+com.google.android.onetimeinitializer
+com.mediatek.engineermode
+com.mediatek.gnssdebugreport
+com.mediatek.lbs.em2.ui
+com.mediatek.mdmconfig
+com.mediatek.mdmlsample
+com.mediatek.sensorhub.ui
+com.mediatek.ygps
+com.wapi.wapicertmanager
+com.gm.health
+com.generalmobile.app.musicplayer
+com.generalmobile.assistant
+com.pri.factorytest
+com.pri.smartfloatball

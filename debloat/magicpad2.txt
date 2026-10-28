@@ -1,0 +1,13 @@
+# HONOR MagicPad2 debloat, 2026-10-28. Kaynak: Universal Android Debloater NG (Recommended); sadece reklam/otomatik yükleyici/kullanılmayan parçalar.
+# Geri almak: tools\adb.cmd -s <SERIAL> shell cmd package install-existing <paket>
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+com.hihonor.magazine
+com.hihonor.autoinstallapkfrommcc
+com.hihonor.appmarket
+com.hihonor.hnstartupguide
+com.google.android.videos
+com.google.android.apps.tachyon
+com.google.android.feedback
+com.android.egg
